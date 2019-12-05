@@ -1,8 +1,8 @@
 <?php
 if($_POST)
 {
-    $to_Email   	= "admin@themes.ads"; //Replace with recipient email address
-    $subject        = 'Wexim - New Contact Inquiry'; //Subject line for emails
+    $to_Email   	= "info@theappciti.com"; //Replace with recipient email address
+    $subject        = 'AppCiti- New Contact Inquiry'; //Subject line for emails
 
 
     //check if its an ajax request, exit if not
